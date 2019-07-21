@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  width: 90%;
+  margin: auto;
+}
+
+.done {
+  text-decoration: line-through;
+}
+
+.todo-list {
+  width: 400px;
+  padding: 12px;
+  margin: 12px;
+}
